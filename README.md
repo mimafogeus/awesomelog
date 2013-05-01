@@ -1,4 +1,4 @@
-awesomelog
-==========
+AwesomeLog! Gem
+==================
 
-Logger gem extension that colors its output.
+Wraps Logger, colors stdout data according to log message level.
